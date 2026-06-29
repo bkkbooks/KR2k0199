@@ -1,0 +1,37 @@
+canonical_identifier: bkk:krp/KR2k0199/v1
+canonical_location: https://kanripo.org/bkk/KR2k0199/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 湘州記一卷
+  identifiers:
+    krp: KR2k0199
+  tags:
+    kr-categories: KR2k
+    tls-dates: dat04500
+  source:
+    repository: tls-texts
+    path: data/tls/KR2k0199.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 1, filename: KR2k0199_001.yaml, hash: 'sha256:f1d46128fb478eb6abe87e9dc84a0fed3e1b3ebce7a5258571ed571db6741450'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR2k0199_001.markers.yaml, hash: 'sha256:75b5125dc75707f87a7f1efd901ee8b23925ceba502f2eb7d0c2d8f07e8e47bf'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR2k0199_CHANT_001-1a.1-h
+    span:
+    - body
+    - 0
+    - 139
+  label: 郭仲產湘州記
+  type: section
+  level: 1
+hash: sha256:1f2b06cd9ec23325a9a07abf084aa47edc66d3961a999eb7dcd3567e533f2bfb
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

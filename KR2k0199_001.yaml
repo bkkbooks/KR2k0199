@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR2k0199/chant/v1/juan/1
+seq: 1
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 郭仲産湘州記太平御覽引一事衡陽縣東南有酃湖土人取此水以釀酒其味醇美所謂酃酒每年常獻之晉平吳始薦酃酒於太廟是也卷八百四十五太平寰宇記引一事平樂縣縈山多曲竹有木客形似小兒歌哭行坐衣服不異于人而能隱形山居崖宿至精巧時出市易作器人亦無別就人換供此皆有信義言語亦可解精器木理也卷一百六十三
+  hash: sha256:b7137cfe2f841b218621ec973faf63d76104e946e22d701cb17a36755c018e56
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR2k0199_CHANT_001-1a.1-h}
+metadata:
+  title: 湘州記一卷
+  edition:
+    short: chant
+  source:
+    repository: tls-texts
+    path: data/tls/KR2k0199.xml
+hash: sha256:f1d46128fb478eb6abe87e9dc84a0fed3e1b3ebce7a5258571ed571db6741450
