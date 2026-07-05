@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 1, filename: KR2k0199_001.yaml, hash: 'sha256:f1d46128fb478eb6abe87e9dc84a0fed3e1b3ebce7a5258571ed571db6741450'}
+  - {seq: 1, filename: KR2k0199_001.yaml, hash: 'sha256:5bf027f89a59c149d280af09f8519eab5e6bcdd3d80178af2713f483a4ce3225'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR2k0199_001.markers.yaml, hash: 'sha256:75b5125dc75707f87a7f1efd901ee8b23925ceba502f2eb7d0c2d8f07e8e47bf'}
+  - {seq: 1, role: markers, filename: assets/KR2k0199_001.markers.yaml, hash: 'sha256:8003b96d7b6dd02bada5f93c992f94f82e658b63f4c3579fb5ac32dc17787d89'}
 table_of_contents:
 - ref:
     seq: 1
@@ -31,7 +31,4 @@ table_of_contents:
   label: 郭仲產湘州記
   type: section
   level: 1
-hash: sha256:1f2b06cd9ec23325a9a07abf084aa47edc66d3961a999eb7dcd3567e533f2bfb
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:e1cdea3093d8e829a1589ba1d22338a754ca2c1fa2b07045cfd4b1a1c2257a69
